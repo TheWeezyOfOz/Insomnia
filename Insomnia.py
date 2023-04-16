@@ -19,7 +19,7 @@ NORM_FONT= ("Verdana", 10)
 SMALL_FONT= ("Verdana", 8)
 
 window = tk.Tk()
-window.iconbitmap("C:/Users/Louise.Ward/Documents/3_Personal Developemnt/Python/mrBlinky.ico")
+window.iconbitmap("./mrBlinky.ico")
 
 stop = 0
 
